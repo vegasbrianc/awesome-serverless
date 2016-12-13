@@ -341,6 +341,8 @@
 - [Express Serverless Boilerplate](https://github.com/SharathHuddar/express-serverless-boilerplate) - A simple boilerplate for using expressjs with serverless v1.2.1.
 - [GraphQL Dad Jokes](https://github.com/kevinold/serverless-graphql-dadjokes) - Example Serverless GraphQL v1.0 "Dad Jokes" service from React Rally 2016.
 - [IronFunctions](https://github.com/iron-io/functions) - the Serverless Microservices Platform
+- [AMP](https://github.com/appcelerator/amp) - the open source Container-as-a-Service & microservice platform for Docker
+
 
 ## Related projects
 - [DataFire](https://github.com/DataFire/DataFire) - Open Integration Framework.
